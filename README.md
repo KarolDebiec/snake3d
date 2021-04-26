@@ -8,4 +8,4 @@ How to download :
 3. In Unity Hub click on "Add" and find folder from point 2
 4. After the project is created switch to android
 5. That's all 
-![Gameplay_Example](https://media.giphy.com/media/vGFNM2iTpCtF2y2LWs/giphy.gif)
+![Gameplay_Example](https://github.com/KarolDebiec/snake3d/blob/76882079e75102cebf43ae81826e4313ea557ebf/snek.gif)
