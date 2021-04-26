@@ -1,5 +1,7 @@
 # snake3d
 Snake 3D prototype
+![Gameplay_Example](https://github.com/KarolDebiec/snake3d/blob/76882079e75102cebf43ae81826e4313ea557ebf/snek.gif)
+
 Use Unity 2020.1.10f1 or never
 
 How to download :
