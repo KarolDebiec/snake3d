@@ -8,3 +8,4 @@ How to download :
 3. In Unity Hub click on "Add" and find folder from point 2
 4. After the project is created switch to android
 5. That's all 
+![Alt Text](https://media.giphy.com/media/vGFNM2iTpCtF2y2LWs/giphy.gif)
